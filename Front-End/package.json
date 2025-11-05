@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Deutschh.github.io/ZenFloww",
+  "homepage": "https://deutschh.github.io/ZenFloww/",
   "scripts": {
     "ZenFlow": "vite",
     "build": "vite build",
