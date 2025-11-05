@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: "/ZenFlow/",
+  base: "/ZenFloww/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
