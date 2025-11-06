@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://deutschh.github.io/ZenFloww/",
+  "homepage": "https://Deutschh.github.io/ZenFloww/",
   "scripts": {
     "ZenFlow": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "deploy": "gh-pages -d dist",
+    "deploy": "npm run build && gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
